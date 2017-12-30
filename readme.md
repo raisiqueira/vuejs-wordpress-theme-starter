@@ -62,6 +62,6 @@ All scripts and styles in `/src` are compiled down to the `/dist` directory, whi
 
 ## Features coming soon:
 - Example components for loading recent posts.
-- WordPress menu integration
+- WordPress menu integration (WIP)
 - A few more starter routes
 - More documentation
